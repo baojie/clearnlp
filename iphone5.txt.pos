@@ -1,0 +1,26 @@
+After	IN	_
+just	RB	_
+a	DT	_
+week	NN	_
+on	IN	_
+the	DT	_
+market	NN	_
+,	,	_
+the	DT	_
+iPhone	NNP	p2=$
+5	CD	p2=NNP
+has	VBZ	_
+owners	NNS	_
+writing	VBG	_
+up	RP	_
+a	DT	_
+laundry	JJ	_
+list	NN	_
+of	IN	_
+faults	NNS	_
+with	IN	_
+the	DT	_
+new	JJ	_
+device	NN	_
+.	.	_
+
